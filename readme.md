@@ -1,6 +1,6 @@
 # Loopback Walkthrough
 
-Ce projet constitue un point de départ pour l'apprentissage du Framework Loopback. L'objectif du projet est de fabriquer une application utilisant les principales fonctionnalités de Loopbac, en détaillant chaque étape :
+Ce projet constitue un point de départ pour l'apprentissage du Framework Loopback. L'objectif du projet est de fabriquer une application utilisant les principales fonctionnalités de Loopback, en détaillant chaque étape :
 
 ## Sommaire - Partie 1
 ```
